@@ -1,4 +1,3 @@
-//I
 precision highp float;
 #define GLSLIFY 1
 
